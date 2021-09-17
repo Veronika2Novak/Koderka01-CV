@@ -1,0 +1,49 @@
+body {
+    font-family:'Roboto', sans-serif;
+    background-color: lightsteelblue;
+    margin: 50px;
+}
+
+header {
+    text-align: center;
+    height: 450px;
+    padding: 50px;
+    background-image: url("BetlemskaKaple.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+
+.VNprofile {
+    border-radius: 50%;
+    width: 240px;
+    height: 280px;
+}
+
+h1 {
+    font-size: 60px;
+    color:whitesmoke;
+    
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    border-style: solid;
+    border-color: darkslateblue;
+    border-radius: 10px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+section,
+footer {
+    background-color: rgb(199, 215, 235);
+    padding: 25px;
+}
+
+footer {
+    text-align: center;
+}
